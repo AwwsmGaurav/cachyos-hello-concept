@@ -2,7 +2,7 @@
 
 A lightweight **Qt6 + QML** UI/UX concept mockup for a modernized `cachyos-hello`, designed to welcome newcomers without bloating the ISO.
 
-*(Note: This is strictly a visual/UX layout concept to spark ideas. The right-hand character is a placeholder to demonstrate the 1/3rd visual stage.)*
+*(Note: This is strictly a visual/UX layout concept to spark ideas. The right-hand character is a placeholder to demonstrate the 1/3rd visual stage. This is an AI assisted project)*
 
 ## Preview
 

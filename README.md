@@ -16,10 +16,13 @@ A lightweight **Qt6 + QML** UI/UX concept mockup for a modernized `cachyos-hello
 | :---: | :---: |
 | ![Community](screenshots/card4.png) | ![Contribute](screenshots/card5.png) |
 
+![Solid-bg toggled](screenshots/solid-bg.png)
+
 ## Highlights
 - **5-Card Horizontal Walkthrough:** Smooth swipe/arrow-key navigation with a frameless UI and a **Glass / Solid** accessibility toggle in the top bar.
 - **30-Second Survival Guide:** Jargon-free onboarding covering clean `pacman`/`paru` updates, the CachyOS Kernel Manager, and Btrfs Snapper rollbacks.
 - **JSON-Driven FOSS App Picker:** Non-hardcoded categories (`data/apps.json`) in a slanted accordion layout with clear *Proprietary* badges and a copyable `pacman` command preview.
+- **Accessibility Toggle:** Switch cleanly between translucent Glass and Solid backgrounds from the top bar.
 
 ## Quick Run
 ```bash

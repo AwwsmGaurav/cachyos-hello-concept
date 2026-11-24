@@ -1,8 +1,10 @@
 # CachyOS Hello — UI/UX Concept Mockup
 
-A lightweight **Qt6 + QML** UI/UX concept mockup for a modernized `cachyos-hello`, designed to welcome newcomers without bloating the ISO.
+A lightweight **Qt6 + QML** UI/UX, unofficial concept mockup for a modernized `cachyos-hello` / greeter, designed to welcome newcomers without bloating the ISO.
 
-*(Note: This is strictly a visual/UX layout concept to spark ideas. The right-hand character is a placeholder to demonstrate the 1/3rd visual stage.)*
+### This project will not get any further updates due to not enough interest from the community, please check out sister project `manjaro-hello-concept`, which has already received more updates.
+
+*(Note: This is strictly a visual/UX layout concept to spark ideas. The right-hand character/logo is a placeholder to demonstrate the 1/3rd visual stage.)*
 
 ## Preview
 

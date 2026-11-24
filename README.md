@@ -4,7 +4,13 @@ A lightweight **Qt6 + QML** UI/UX, unofficial concept mockup for a modernized `c
 
 ### This project will not get any further updates due to not enough interest from the community, please check out sister project `manjaro-hello-concept`, which has already received more updates.
 
+https://github.com/AwwsmGaurav/manjaro-hello-concept
+
+---
+
 *(Note: This is strictly a visual/UX layout concept to spark ideas. The right-hand character/logo is a placeholder to demonstrate the 1/3rd visual stage.)*
+
+---
 
 ## Preview
 
